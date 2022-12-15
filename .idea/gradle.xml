@@ -11,6 +11,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/ToastLog_Library" />
+            <option value="$PROJECT_DIR$/Validation_signup" />
             <option value="$PROJECT_DIR$/app" />
           </set>
         </option>
